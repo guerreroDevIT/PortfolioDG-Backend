@@ -26,7 +26,6 @@ D:\Argentina Progama\Yo Programo\8 Back End con Spring Boot\BackEnd-DG\src\main\
 D:\Argentina Progama\Yo Programo\8 Back End con Spring Boot\BackEnd-DG\src\main\java\com\portfolio\dg\Dto\dtoEducacion.java
 D:\Argentina Progama\Yo Programo\8 Back End con Spring Boot\BackEnd-DG\src\main\java\com\portfolio\dg\Interface\IPersonaService.java
 D:\Argentina Progama\Yo Programo\8 Back End con Spring Boot\BackEnd-DG\src\main\java\com\portfolio\dg\Entity\Educacion.java
-D:\Argentina Progama\Yo Programo\8 Back End con Spring Boot\BackEnd-DG\src\main\java\com\portfolio\dg\WebConfig.java
 D:\Argentina Progama\Yo Programo\8 Back End con Spring Boot\BackEnd-DG\src\main\java\com\portfolio\dg\Dto\dtoHys.java
 D:\Argentina Progama\Yo Programo\8 Back End con Spring Boot\BackEnd-DG\src\main\java\com\portfolio\dg\Security\jwt\JwtProvider.java
 D:\Argentina Progama\Yo Programo\8 Back End con Spring Boot\BackEnd-DG\src\main\java\com\portfolio\dg\Service\Sacercade.java

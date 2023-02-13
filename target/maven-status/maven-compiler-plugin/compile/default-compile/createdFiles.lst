@@ -1,6 +1,5 @@
 com\portfolio\dg\Security\Controller\AuthController.class
 com\portfolio\dg\Repository\RExperiencia.class
-com\portfolio\dg\WebConfig.class
 com\portfolio\dg\Entity\Presentacion.class
 com\portfolio\dg\Repository\RHabilidades.class
 com\portfolio\dg\Security\Entity\Usuario.class
